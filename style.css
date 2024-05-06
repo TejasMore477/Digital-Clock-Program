@@ -15,7 +15,7 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(./assets/photo-1460602594182-8568137446ce.avif);
+    background: url(./assets/background.avif);
     background-position: center;
     background-size: cover;
     background-repeat:no-repeat ;
